@@ -7,6 +7,11 @@ U.S. National Flag
 
 German National Flag
 ![德国](https://github.com/user-attachments/assets/7727d779-48be-4850-9e68-62520efc55af)
+![德国国旗Python代码执行界面](https://github.com/user-attachments/assets/608eeb35-a1dc-4fc1-a464-3fd9f0377586)
+
+Austrian National Flag
+![Austrian](https://github.com/user-attachments/assets/909dd4c4-4750-47ca-84e2-6c0abce53658)
+![Austrian National Flag](https://github.com/user-attachments/assets/a20aa941-ebac-40af-a403-af4d5c24c245)
 
 Dutch National Flag
 ![图片2](https://github.com/user-attachments/assets/a2426ff5-99b8-4d62-be63-874a8574f68d)
