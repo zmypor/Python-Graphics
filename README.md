@@ -11,6 +11,7 @@ German National Flag
 
 Austrian National Flag
 ![Austrian](https://github.com/user-attachments/assets/909dd4c4-4750-47ca-84e2-6c0abce53658)
+![奥地利国旗1](https://github.com/user-attachments/assets/ae8fea65-c55a-41cf-b20a-5d8c12a95b25)
 
 
 Chinese National Flag
