@@ -19,7 +19,8 @@ Austrian National Flag
 
 Chinese National Flag
 ![中国](https://github.com/user-attachments/assets/95fd7086-0040-4faa-8970-6bb4ff7b59ae)
-![Uploading 中国国旗Python代码执行界面.gif…]()
+![中国国旗Python代码执行界面](https://github.com/user-attachments/assets/2f9572ad-67d4-4c12-94dc-bab8f1f37cf6)
+
 
 
 
